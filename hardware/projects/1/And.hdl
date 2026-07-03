@@ -14,3 +14,5 @@ CHIP And {
     Nand(a=a, b=b, out=w1);
     Not(in=w1, out=out);
 }
+
+Not Not X
